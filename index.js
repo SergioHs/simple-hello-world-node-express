@@ -12,4 +12,4 @@ app.get('/', (req, res) => {
 });
 
 app.listen(port, host);
-console.log(`Server running at http://${host}:${port}/`);
+console.log(`Servidor Rodando em  http://${host}:${port}/`);
